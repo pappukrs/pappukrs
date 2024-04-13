@@ -40,7 +40,7 @@ I am Pappu from Hajipur, Bihar. Skilled in Full Stack Development, MERN, Javascr
 <h2 align="left">☕ Let's Connect</h2>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pappu-kumar-singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pappu-kumar-singh" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://www.linkedin.com/in/pappukrs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pappu-kumar-singh" height="50" width="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 </p>
 
