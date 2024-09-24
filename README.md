@@ -106,7 +106,7 @@ I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Mobi
 <br/><br/><br/><br/>
 
 <br/><br/><br/><br/>
-<a href="https://github.com/pappukrs/github-readme-activity-graph"><img alt="pappu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pappukrs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/><br/>
 
