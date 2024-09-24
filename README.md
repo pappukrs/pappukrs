@@ -1,4 +1,5 @@
-<!-- ### Hi There! 👋  I'm Pappu Kumar Singh from Hajipur, Bihar, currently working as a Mobile App Engineer with expertise in Full Stack Development. My journey started with a Bachelor's in Mechanical Engineering, but my passion for coding led me to pursue a career in software development. Over the years, I’ve worked with a variety of technologies, evolving from a MERN stack developer to building mobile applications using React Native and backend services with Spring Boot Microservices and PostgreSQL. -->
+<!-- ### Hi There! 👋  I'm Pappu Kumar Singh from Hajipur, Bihar, currently working as a Mobile App Engineer with expertise in Full Stack Development. My journey started with a Bachelor's in Mechanical Engineering, but my passion for coding led me to pursue a career in software development. Over the years, I’ve worked with a variety of technologies, evolving from a MERN stack developer to building mobile applications using React Native and backend services with Spring Boot Microservices and PostgreSQL. 
+-->
 
 <!--
 **pappukrs/pappukrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
