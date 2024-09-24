@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # Hi There! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
 
-I'm Pappu Kumar Singh from Hajipur, Bihar, currently working as a Mobile App Engineer with expertise in Full Stack Development. My journey started with a Bachelor's in Mechanical Engineering, but my passion for coding led me to pursue a career in software development. Over the years, I’ve worked with a variety of technologies, evolving from a MERN stack developer to building mobile applications using React Native and backend services with Spring Boot Microservices and PostgreSQL and Nodejs MongoDB,MySQL and so on.
+I'm Pappu Kumar Singh, based in Bengaluru, currently working as a Mobile App Engineer with expertise in Full Stack Development. My journey in software development started with web technologies, evolving from a MERN stack developer to building mobile applications using React Native, along with backend services in Spring Boot Microservices, PostgreSQL, Node.js, MongoDB, and MySQL.
 
 ### 💻 What do i do?
 
