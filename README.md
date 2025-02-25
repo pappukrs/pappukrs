@@ -26,7 +26,7 @@ I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Mobi
 - **Other Tools:** Redux, Ionic, JSON Validation
 
 
-### My Experiences (~1.5 Years)
+### My Experiences (~2 Years)
 
 #### Software Developer Trainee  
 **March 2023 - Sept 2023**  
