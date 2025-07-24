@@ -1,10 +1,22 @@
 
-### Hi ! 👋
-I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Mobile App Engineer** with expertise in **Full Stack Development**. My journey in software development started with web technologies, evolving from a **MERN stack developer** to building mobile applications using **React Native**, along with backend services in **Spring Boot Microservices**, **PostgreSQL**, **Node.js**, **MongoDB**, and **MySQL**.
+### Hi! 👋  
+I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Full Stack Web & Mobile App Developer**.  
+
+I specialize in building both web and mobile applications with a strong foundation in full-stack technologies. My journey started with web development as a **MERN stack developer**, and over time I've expanded into building **mobile apps** using **React Native**, as well as robust backend systems using **Spring Boot Microservices**, **PostgreSQL**, **Node.js**, **MongoDB**, and **MySQL**.
+
 
 ### 🚀 What am I currently doing?
-- **Mobile Development:** Building state-of-the-art mobile applications using **React Native**, focusing on **fintech**, **loan management**, and **crop insurance**.
-- **Backend Development:** Developing microservices with **Spring Boot** and **PostgreSQL**, while leveraging **Node.js** for backend systems that require flexibility and scalability.
+
+- **📱 Mobile Development:**  
+  Building state-of-the-art mobile applications using **React Native**, focusing on **fintech**, **loan management**, and **crop insurance**.
+
+- **🧠 Backend Development:**  
+  Developing microservices with **Spring Boot** and **PostgreSQL**, while using **Node.js** for systems needing flexibility and speed.  
+  Skilled in building REST APIs, payment gateway integrations, and secure auth flows.
+
+- **🌐 Web Development:**  
+  Creating **modern, responsive, and scalable full-stack web applications** using **Next.js**, **React**, and **Tailwind CSS**.  
+  Focused on SEO-friendly, performant apps — integrating powerful frontend experiences with robust backend APIs.
 
 ### 💡 Key Projects & Contributions
 - **Fintech Mobile App (SenseGrass):**
@@ -19,7 +31,7 @@ I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Mobi
 
 ### 🛠️ Technologies I Work With
 
-- **Frontend:** React Native, React, Angular
+- **Frontend:** Nextjs ,React Native, React, Angular
 - **Backend:** Spring Boot, Node.js, Express
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **DevOps:** Docker, Git, WebSockets, MQTT
