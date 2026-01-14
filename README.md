@@ -1,22 +1,22 @@
 
 ### Hi! 👋  
-I'm **Pappu Kumar Singh**, based in **Bengaluru**, currently working as a **Full Stack Web & Mobile App Developer**.  
+I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Backend-Heavy Full Stack Developer**.
 
-I specialize in building both web and mobile applications with a strong foundation in full-stack technologies. My journey started with web development as a **MERN stack developer**, and over time I've expanded into building **mobile apps** using **React Native**, as well as robust backend systems using **Spring Boot Microservices**, **PostgreSQL**, **Node.js**, **MongoDB**, and **MySQL**.
+I specialize in architecting scalable backend systems and high-performance web applications. My expertise lies in the **JavaScript/TypeScript ecosystem** (Node.js, Next.js) with a deep focus on **distributed systems** using **Redis, MongoDB, and PostgreSQL**. I am equally proficient in building **mobile apps** with **React Native** and implementing **DevOps** practices using **AWS, Terraform, and GitOps**.
 
 
 ### 🚀 What am I currently doing?
 
-- **📱 Mobile Development:**  
-  Building state-of-the-art mobile applications using **React Native**, focusing on **fintech**, **loan management**, and **crop insurance**.
+- **🧠 Backend & Cloud Systems:**
+  Developing robust microservices and APIs with **Node.js**, **Next.js**, and **Redis**.
+  Managing infrastructure with **Terraform** and automating deployments via **GitOps** and **AWS (EC2, S3, Lambda)**.
 
-- **🧠 Backend Development:**  
-  Developing microservices with **Spring Boot** and **PostgreSQL**, while using **Node.js** for systems needing flexibility and speed.  
-  Skilled in building REST APIs, payment gateway integrations, and secure auth flows.
+- **🌐 Modern Web & Mobile:**
+  Creating performant, SEO-friendly frontends with **Next.js** and **React**.
+  Building feature-rich cross-platform mobile applications using **React Native**.
 
-- **🌐 Web Development:**  
-  Creating **modern, responsive, and scalable full-stack web applications** using **Next.js**, **React**, and **Tailwind CSS**.  
-  Focused on SEO-friendly, performant apps — integrating powerful frontend experiences with robust backend APIs.
+- **⛓️ Web3 & Specialized Projects:**
+  Leading development on **Nasi**, involving **SpringBoot Microservices**, **React Native**, and **Base DApp (Web3)**.
 
 ### 💡 Key Projects & Contributions
 - **Fintech Mobile App (SenseGrass):**
@@ -31,11 +31,11 @@ I specialize in building both web and mobile applications with a strong foundati
 
 ### 🛠️ Technologies I Work With
 
-- **Frontend:** Nextjs ,React Native, React, Angular
-- **Backend:** Spring Boot, Node.js, Express
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **DevOps:** Docker, Git, WebSockets, MQTT
-- **Other Tools:** Redux, Ionic, JSON Validation
+- **Frontend/Mobile:** Next.js, React, React Native, Angular
+- **Backend:** Node.js, Next.js (API Routes), Express, Spring Boot
+- **Databases & Caching:** Redis, PostgreSQL, MongoDB, MySQL
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Terraform, GitOps, Docker
+- **Specialized:** Base DApp (Web3), WebSockets, MQTT
 
 
 ### My Experiences (~2 Years)
@@ -96,16 +96,18 @@ I specialize in building both web and mobile applications with a strong foundati
 
 <h2 align="left">🛠 Languages and Tools:</h2>
 <p align="center">
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> </p>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
