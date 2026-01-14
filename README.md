@@ -2,13 +2,13 @@
 ### Hi! 👋  
 I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Backend-Heavy Full Stack Developer**.
 
-I specialize in architecting scalable backend systems and high-performance web applications. My expertise lies in the **JavaScript/TypeScript ecosystem** (Node.js, Next.js) with a deep focus on **distributed systems** using **Redis, MongoDB, and PostgreSQL**. I am equally proficient in building **mobile apps** with **React Native** and implementing **DevOps** practices using **AWS, Terraform, and GitOps**.
+I specialize in architecting scalable backend systems and high-performance web applications. My expertise lies in the **JavaScript/TypeScript ecosystem** (Node.js, Nestjs) with a deep focus on **distributed systems** using **Redis, MongoDB, and PostgreSQL**. I am equally proficient in building **mobile apps** with **React Native** and implementing **DevOps** practices using **AWS, Terraform, and GitOps**.
 
 
 ### 🚀 What am I currently doing?
 
 - **🧠 Backend & Cloud Systems:**
-  Developing robust microservices and APIs with **Node.js**, **Next.js**, and **Redis**.
+  Developing robust microservices and APIs with **Node.js**, **Nestjs**, and **Redis**.
   Managing infrastructure with **Terraform** and automating deployments via **GitOps** and **AWS (EC2, S3, Lambda)**.
 
 - **🌐 Modern Web & Mobile:**
@@ -32,7 +32,7 @@ I specialize in architecting scalable backend systems and high-performance web a
 ### 🛠️ Technologies I Work With
 
 - **Frontend/Mobile:** Next.js, React, React Native, Angular
-- **Backend:** Node.js, Next.js (API Routes), Express, Spring Boot
+- **Backend:** Node.js, Nestjs, Express, Spring Boot
 - **Databases & Caching:** Redis, PostgreSQL, MongoDB, MySQL
 - **DevOps & Cloud:** AWS (EC2, S3, Lambda), Terraform, GitOps, Docker
 - **Specialized:** Base DApp (Web3), WebSockets, MQTT
@@ -66,7 +66,7 @@ I specialize in architecting scalable backend systems and high-performance web a
 
 #### SDE-Mobile  
 **April 2024 - Present**  
-**SenseGrass, California (Remote)**  
+**SenseGrass, Bengaluru Karnataka**  
 - Created a **fintech app** with payment transfer functionality similar to modern **Paytm** and **PhonePe** using **React Native**.
 - Included **loan** and **crop insurance** functionalities for farmers.
 - Integrated **payment gateway** and payouts using **Cashfree**.
