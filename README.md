@@ -1,117 +1,87 @@
+### Hi! 👋
+I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Heavy Backend Full Stack Engineer**.
 
-### Hi! 👋  
-I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Backend-Heavy Full Stack Developer**.
+### My Story
+Hello! I am Pappu Kumar, a Software Engineer with ~2 years of professional experience specializing in building backend-heavy full-stack systems. My core expertise lies in designing robust architectures using Node.js, Next.js and scaling complex applications.
 
-I specialize in architecting scalable backend systems and high-performance web applications. My expertise lies in the **JavaScript/TypeScript ecosystem** (Node.js, Nestjs) with a deep focus on **distributed systems** using **Redis, MongoDB, and PostgreSQL**. I am equally proficient in building **mobile apps** with **React Native** and implementing **DevOps** practices using **AWS, Terraform, and GitOps**.
+I have strong experience in designing REST APIs, implementing secure authentication workflows, and integrating seamless payment gateways. My work involves handling sensitive financial data and ensuring compliance in fintech domains like loans and insurance.
 
+Beyond the backend, I have solid frontend exposure using React and Next.js, allowing me to deliver complete end-to-end features. I am comfortable bridging the gap between database schema design and user interface implementation.
 
-### 🚀 What am I currently doing?
+I thrive on building real-time communication systems and optimizing performance for high-load environments. Whether it's containerizing services with Docker or deploying on AWS, I enjoy the entire lifecycle of software development.
 
-- **🧠 Backend & Cloud Systems:**
-  Developing robust microservices and APIs with **Node.js**, **Nestjs**, and **Redis**.
-  Managing infrastructure with **Terraform** and automating deployments via **GitOps** and **AWS (EC2, S3, Lambda)**.
+### 🚀 Experience
 
-- **🌐 Modern Web & Mobile:**
-  Creating performant, SEO-friendly frontends with **Next.js** and **React**.
-  Building feature-rich cross-platform mobile applications using **React Native**.
+#### Software Engineer
+**SenseGrass**
+- Continued contributing in an equity-based capacity post full-time tenure.
+- Fixed production bugs, improved system stability, and optimized existing APIs.
+- Added incremental backend features and enhancements based on business needs.
+- Supported deployments, environment fixes, and production troubleshooting.
+- No exclusivity or conflict of interest; open to full-time opportunities.
 
-- **⛓️ Web3 & Specialized Projects:**
-  Leading development on **Nasi**, involving **SpringBoot Microservices**, **React Native**, and **Base DApp (Web3)**.
+#### SDE
+**SenseGrass**
+- Designed and developed backend APIs using Node.js and Express to support loan, insurance, and payment workflows handling sensitive financial data.
+- Implemented authentication and authorization mechanisms to secure backend services and control access across user roles.
+- Integrated identity verification workflows including Aadhaar/PAN, eKYC, and OTP, ensuring compliance and secure data handling.
+- Implemented payment processing and payout flows using Cashfree and EscrowPay, including EMI handling and scheduled background jobs.
+- Designed and optimized database schemas and queries using PostgreSQL and MongoDB, improving API response times and system reliability.
+- Implemented real-time communication using WebSockets to deliver low-latency notifications and status updates.
+- Contributed to existing Spring Boot microservices by fixing production issues and extending API functionality where required.
+- Collaborated with frontend engineers to integrate backend APIs with React / Next.js clients, ensuring consistent data flow and secure API usage.
+- Deployed backend services on AWS EC2 using Terraform, following a GitOps-style workflow where infrastructure and deployments were managed through version-controlled pipelines.
+- Deployed and managed Next.js frontend applications on AWS EC2, integrating them with backend APIs and ensuring reliable production access.
+- Worked closely with product and design teams to deliver complete features from backend logic to frontend integration.
 
-### 💡 Key Projects & Contributions
-- **Fintech Mobile App (SenseGrass):**
-  - Built a **fintech app** similar to **Paytm** and **PhonePe** using **React Native**.
-  - Integrated **payment gateways** and processed **loans and insurance** for farmers.
-  - Collaborated with developers on backend services using **Node.js** and **MongoDB**.
+#### Software Engineer
+**MatrIoT Solutions**
+- Modernized backend services by upgrading Node.js versions and migrating databases from MongoDB to MySQL, improving reliability and query performance.
+- Built and maintained backend APIs supporting real-time IoT and monitoring use cases.
+- Implemented real-time communication using WebSockets and MQTT, improving data delivery and system responsiveness.
+- Developed Python-based internal tools for logging, monitoring, and socket-based diagnostics to support backend operations.
+- Containerized backend services using Docker, improving deployment consistency and reducing release-related issues.
+- Collaborated with cross-functional teams to align backend systems with scalable and cloud-ready architecture practices.
 
-- **MoneyPlant Mobile App:**
-  - Developed features like **employee loans**, **stock investments**, **SIP**, **credit card applications**, and **gold loans**.
-  - Led frontend development in **React Native** and designed the backend architecture using **Spring Boot** and **PostgreSQL**.
-  - Implemented **QR code scanning**, **push notifications**, and other critical user flows.
+### 💡 Featured Projects
 
-### 🛠️ Technologies I Work With
+#### Real-Time Messaging Platform
+- Designed and built a backend-first real-time messaging platform supporting secure authentication, 1:1 chats, group chats, and status updates, similar to modern messaging applications.
+- Designed and developed UI/UX using Next.js for core features like auth, chats, and status with focus on responsiveness.
+- Implemented secure signup/login using phone number as single source of truth.
+- Built 1:1 messaging and Group chats with strict role-based access control (Admin/Member).
+- Implemented Status (Stories) with privacy controls based on chat interactions.
+- Used WebSockets for real-time delivery, typing indicators, and presence updates.
+- Integrated Redis for presence tracking, caching metadata, and reducing DB load.
+- Designed hybrid architecture using REST for synchronous ops and WebSockets for real-time events.
+- Ensured stateless backend services using PostgreSQL and Redis for horizontal scalability.
+- Used Prisma ORM for type-safe database access and migrations.
+- Containerized backend with Docker and implemented GitOps workflows using Terraform for AWS deployment.
 
-- **Frontend/Mobile:** Next.js, React, React Native, Angular
-- **Backend:** Node.js, Nestjs, Express, Spring Boot
-- **Databases & Caching:** Redis, PostgreSQL, MongoDB, MySQL
-- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Terraform, GitOps, Docker
-- **Specialized:** Base DApp (Web3), WebSockets, MQTT
+#### Fintech Mobile App (SenseGrass)
+- Built a **fintech app** similar to **Paytm** and **PhonePe** using **React Native**.
+- Integrated **payment gateways** and processed **loans and insurance** for farmers.
+- Collaborated with developers on backend services using **Node.js** and **MongoDB**.
 
+#### MoneyPlant Mobile App
+- Developed features like **employee loans**, **stock investments**, **SIP**, **credit card applications**, and **gold loans**.
+- Led frontend development in **React Native** and designed the backend architecture using **Spring Boot** and **PostgreSQL**.
+- Implemented **QR code scanning**, **push notifications**, and other critical user flows.
 
-### My Experiences (~2 Years)
+### 🛠 Languages and Tools
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Java (Spring Boot), Python
+- **Frontend/Mobile:** Next.js, React, React Native, Redux-toolkit, Tailwind, Shadcn UI, Angular
+- **Backend:** Node.js, Express, Nestjs, Spring Boot, Microservices
+- **Databases & Caching:** PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
+- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Terraform, Docker, GitOps, Kafka
+- **Payments:** Stripe, Razorpay, Cashfree
+- **Other:** WebSockets, MQTT, System Design
 
-#### Software Developer Trainee  
-**March 2023 - Sept 2023**  
-**MatrIoT Solutions, Bangalore**  
-- Developed a **BIO DATA** web application using **Angular** for the frontend and **Node.js** with **Express** and **MongoDB** for the backend.
-- Implemented **CRUD operations**, third-party APIs, **WebSocket**, **MQTT**, and data validation functionalities.
-- Replaced **MongoDB** with **MySQL** in the same application.
-- Replicated the web application as an **Android app** using **Ionic**, a cross-platform framework.
-- Updated **M3-SUITE** web app frontend from **Angular 8** to **16** alone.
-- Dockerized the above applications.
-
----
-
-#### Software Engineer  
-**October 2023 - Feb 2024**  
-**MatrIoT Solutions, Bangalore**  
-- Updated the **M3-SUITE** backend from **Node.js** version 5 to the latest and replaced **MongoDB** database with **MySQL**.
-- Mostly worked on **Asset Tracker** backend while other team members worked on **cBin** backend.
-- Updated the schema model, events, and **WebSocket** connections.
-- Created a **Dockerfile** for the Node.js application and created **Docker Compose** for the backend application.
-- Worked on one **IoT** product, creating a logger file using **Python** and creating a **JSON** property and validation function.
-- Created a **WebSocket** where two laptop clients and the server can connect and communicate through messages.
-
----
-
-#### SDE-Mobile  
-**April 2024 - Present**  
-**SenseGrass, Bengaluru Karnataka**  
-- Created a **fintech app** with payment transfer functionality similar to modern **Paytm** and **PhonePe** using **React Native**.
-- Included **loan** and **crop insurance** functionalities for farmers.
-- Integrated **payment gateway** and payouts using **Cashfree**.
-- Worked on **Node.js** backend with **MongoDB** for integrating the **Cashfree API**.
-- Collaborated with 2 developers on this fintech product.
-
-- Developed **MoneyPlant** app with 2 developers using **React Native** and **Spring Boot PostgreSQL**.
-  - Features include **employee loans** based on salary, **payment transfer**, **stock investment**, **mutual funds**, **SIP**, **games**, **gold loans**, and **credit cards**.
-  - Worked on frontend for onboarding (signup), login, and **KYC** for new users.
-  - Developed side navbar, fixed bottom navbar, home screen, and connected screens.
-  - Implemented **QR code scanning** and generation, notifications, user profile, game design, and credit card application.
-  - Worked on the **gold loans** section.
-
-- Designed the architecture of the entire backend for **MoneyPlant** using **Spring Boot** and **PostgreSQL**.
-  - Learned **Spring Boot** and **PostgreSQL** from scratch while working on the frontend, then started building the backend application.
-  - Designed model schema for the backend.
-  - Created APIs for onboarding users, login, and mobile number verification.
-  - Developed various other APIs for frontend functionalities mentioned above.
-
-
-
-
-
-## 🔗 Links
-
-
-
-<h2 align="left">🛠 Languages and Tools:</h2>
-<p align="center">
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</p>
+<br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
- <div >
+<div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukrs&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukrs" width="380" /></p>
 
 <p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&locale=en&theme=tokyonight" alt="pappu" width="380" /></p>
@@ -120,15 +90,7 @@ I specialize in architecting scalable backend systems and high-performance web a
 <br/><br/><br/><br/>
 
 <br/><br/><br/><br/>
-
-
 <br/><br/>
-
 <h1></h1>
 
-
-
 ![Pappu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&theme=radical)
-
-
-
