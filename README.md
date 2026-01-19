@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi!
 I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Heavy Backend Full Stack Engineer**.
 
 ### My Story
@@ -10,7 +10,7 @@ Beyond the backend, I have solid frontend exposure using React and Next.js, allo
 
 I thrive on building real-time communication systems and optimizing performance for high-load environments. Whether it's containerizing services with Docker or deploying on AWS, I enjoy the entire lifecycle of software development.
 
-### 🚀 Experience
+### Experience
 
 #### Software Engineer
 **SenseGrass**
@@ -43,7 +43,7 @@ I thrive on building real-time communication systems and optimizing performance 
 - Containerized backend services using Docker, improving deployment consistency and reducing release-related issues.
 - Collaborated with cross-functional teams to align backend systems with scalable and cloud-ready architecture practices.
 
-### 💡 Featured Projects
+### Featured Projects
 
 #### Real-Time Messaging Platform
 - Designed and built a backend-first real-time messaging platform supporting secure authentication, 1:1 chats, group chats, and status updates, similar to modern messaging applications.
@@ -58,28 +58,17 @@ I thrive on building real-time communication systems and optimizing performance 
 - Used Prisma ORM for type-safe database access and migrations.
 - Containerized backend with Docker and implemented GitOps workflows using Terraform for AWS deployment.
 
-#### Fintech Mobile App (SenseGrass)
-- Built a **fintech app** similar to **Paytm** and **PhonePe** using **React Native**.
-- Integrated **payment gateways** and processed **loans and insurance** for farmers.
-- Collaborated with developers on backend services using **Node.js** and **MongoDB**.
 
-#### MoneyPlant Mobile App
-- Developed features like **employee loans**, **stock investments**, **SIP**, **credit card applications**, and **gold loans**.
-- Led frontend development in **React Native** and designed the backend architecture using **Spring Boot** and **PostgreSQL**.
-- Implemented **QR code scanning**, **push notifications**, and other critical user flows.
-
-### 🛠 Languages and Tools
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Java (Spring Boot), Python
-- **Frontend/Mobile:** Next.js, React, React Native, Redux-toolkit, Tailwind, Shadcn UI, Angular
-- **Backend:** Node.js, Express, Nestjs, Spring Boot, Microservices
-- **Databases & Caching:** PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch
-- **DevOps & Cloud:** AWS (EC2, S3, Lambda), Terraform, Docker, GitOps, Kafka
+### Technical Advantage
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux-toolkit, Tailwind, Shadcn UI
+- **Backend:** Node.js, Express, Microservices, System Design, WebSockets
+- **Database & Cloud:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, AWS, Kafka
 - **Payments:** Stripe, Razorpay, Cashfree
-- **Other:** WebSockets, MQTT, System Design
+- **Languages & Tools:** Java (Spring Boot), Python, Docker, Terraform, GitOps, MQTT, React Native
 
 <br/><br/>
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <div >
 <p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukrs&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukrs" width="380" /></p>
