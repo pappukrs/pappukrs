@@ -143,6 +143,16 @@
 
 <br/>
 
+- **[MapUp EV Analytics Dashboard](https://mapup-ev-analytiqs-dashboard.vercel.app/) ↗** ([Source](https://github.com/pappukrs/analytics-dashboard-assessment))
+  > An interactive dashboard for analyzing Electric Vehicle (EV) data with real-time visualizations and insights.
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+
+<br/>
+
 - **[Real-Time Messaging Platform](https://github.com/pappukrs) ↗**
   > A scalable backend supporting 1:1 and group chats with real-time delivery, phone-based auth, and status updates.
   <br/>
