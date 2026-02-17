@@ -76,6 +76,18 @@ I am a **Software Engineer** with 2+ years of experience specializing in **backe
 
 #### Legacy Projects
 
+- **[XKool AI](https://xkoolai.vercel.app/) ↗**
+  *Next.js, AI, Marketplace*
+  An AI-powered marketplace platform for schools helping to discover and manage educational resources.
+
+- **[Restaurant Management System (RMSA)](https://rmsa.vercel.app/) ↗**
+  *Next.js, Tailwind CSS, POS, Inventory Management*
+  A comprehensive restaurant management application featuring point-of-sale functionality and inventory tracking.
+
+- **[SLV Sky Suites](https://slvskysuites.vercel.app/) ↗**
+  *Next.js, Tailwind CSS, WhatsApp Integration*
+  A hassle-free service apartment booking platform with seamless WhatsApp communication integration.
+
 - **[IoT Monitoring System](https://github.com/pappukrs) ↗**
   *React, Node.js, MySQL, MQTT, Docker*
   Refactored and scaled a legacy IoT platform to support 10k+ devices with real-time data visualization.
