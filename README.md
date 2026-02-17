@@ -1,28 +1,25 @@
-# 👋 Hi, I'm Pappu Kumar!
+# Pappu Kumar
 
 <p align="left">
   <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Heavy%20Backend-blue?style=for-the-badge" alt="Full Stack Engineer">
   <img src="https://img.shields.io/badge/Location-Bengaluru-orange?style=for-the-badge" alt="Location">
 </p>
 
-I am a **Software Engineer** with ~2 years of experience specializing in **backend-heavy full-stack systems**. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
+I am a **Software Engineer** with 2+ years of experience specializing in **backend-heavy full-stack systems**. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 
 ---
 
-### 🚀 Technical Skills
+### Technical Skills
 
 <p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <br/>
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <br/>
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -35,13 +32,14 @@ I am a **Software Engineer** with ~2 years of experience specializing in **backe
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 #### **Founding Engineer** | SenseGrass (Fintech Platform)
 *Focus: Microservices, Scalability, Payment Orchestration*
@@ -68,19 +66,23 @@ I am a **Software Engineer** with ~2 years of experience specializing in **backe
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
-#### **Real-Time Messaging Platform**
-> *Tech: Next.js, PostgreSQL, Redis, WebSockets, Prisma, Docker, AWS*
+#### Current Projects
 
-- Built a scalable backend supporting 1:1 and group chats with real-time delivery.
-- Implemented phone-based authentication and strict RBAC.
-- Utilized Redis for presence tracking and metadata caching.
-- Designed a hybrid architecture (REST + WebSockets) for optimal performance.
+- **[Real-Time Messaging Platform](https://github.com/pappukrs) ↗**
+  *Next.js, PostgreSQL, Redis, WebSockets, Prisma, Docker, AWS*
+  A scalable backend supporting 1:1 and group chats with real-time delivery, phone-based auth, and status updates.
+
+#### Legacy Projects
+
+- **[IoT Monitoring System](https://github.com/pappukrs) ↗**
+  *React, Node.js, MySQL, MQTT, Docker*
+  Refactored and scaled a legacy IoT platform to support 10k+ devices with real-time data visualization.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
@@ -96,7 +98,7 @@ I am a **Software Engineer** with ~2 years of experience specializing in **backe
 <p align="center">
   Connect with me on:
   <br/>
-  <a href="https://linkedin.com/in/pappukrs">
+  <a href="https://linkedin.com/in/pappukrs" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
