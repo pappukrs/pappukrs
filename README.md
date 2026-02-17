@@ -125,26 +125,56 @@
 
 ---
 
-### Projects Showcase
+###  Projects Showcase
 
 #### **Current Spotlight**
 - **[Real-Time Messaging Platform](https://github.com/pappukrs) ↗**
   > A scalable backend supporting 1:1 and group chats with real-time delivery, phone-based auth, and status updates.
-  > `Next.js` `PostgreSQL` `Redis` `WebSockets` `Prisma` `Docker` `AWS`
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+<br/>
 
 #### **Legacy Archive**
 - **[XKool AI](https://xkoolai.vercel.app/) ↗**
   > AI-powered marketplace platform for schools helping to discover and manage educational resources.
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
 - **[Restaurant Management System (RMSA)](https://rmsa.vercel.app/) ↗**
   > Comprehensive restaurant management application featuring POS functionality and inventory tracking.
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
 - **[SLV Sky Suites](https://slvskysuites.vercel.app/) ↗**
   > Hassle-free service apartment booking platform with seamless WhatsApp communication integration.
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
 - **[IoT Monitoring System](https://github.com/pappukrs) ↗**
   > Refactored legacy IoT platform scaled to support 10k+ devices with real-time visualization.
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
 
 ---
 
-### 📊 Vital Statistics
+###  Vital Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="45%" />
