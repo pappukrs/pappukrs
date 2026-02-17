@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  I am a <b>Software Engineer</b> with 2+ years of experience specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
+  I am a <b>Software Engineer</b> with 2+ years of experience and an <b>obsession with system design</b>, specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 </div>
 
 ---
@@ -32,8 +32,7 @@
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <br/>
     </td>
     <td valign="top">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <br/>
