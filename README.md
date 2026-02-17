@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  I am a **Software Engineer** with 2+ years of experience specializing in **backend-heavy full-stack systems**. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
+  I am a <b>Software Engineer</b> with 2+ years of experience specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 </div>
 
 ---
