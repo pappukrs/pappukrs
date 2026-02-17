@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Technical Stack
+### Technical Stack
 
 <table align="center">
   <tr>
@@ -30,9 +30,10 @@
     <td valign="top">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
     </td>
     <td valign="top">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <br/>
@@ -125,7 +126,7 @@
 
 ---
 
-### 🚀 Projects Showcase
+### Projects Showcase
 
 #### **Current Spotlight**
 - **[Real-Time Messaging Platform](https://github.com/pappukrs) ↗**
