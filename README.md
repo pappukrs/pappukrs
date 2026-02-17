@@ -1,85 +1,102 @@
-### Hi!
-I'm **Pappu Kumar**, based in **Bengaluru**, currently working as a **Heavy Backend Full Stack Engineer**.
+# 👋 Hi, I'm Pappu Kumar!
 
-### My Story
-Hello! I am Pappu Kumar, a Software Engineer with ~2 years of professional experience specializing in building backend-heavy full-stack systems. My core expertise lies in designing robust architectures using Node.js, Next.js and scaling complex applications.
+<p align="left">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-Heavy%20Backend-blue?style=for-the-badge" alt="Full Stack Engineer">
+  <img src="https://img.shields.io/badge/Location-Bengaluru-orange?style=for-the-badge" alt="Location">
+</p>
 
-I have strong experience in designing REST APIs, implementing secure authentication workflows, and integrating seamless payment gateways. My work involves handling sensitive financial data and ensuring compliance in fintech domains like loans and insurance.
+I am a **Software Engineer** with ~2 years of experience specializing in **backend-heavy full-stack systems**. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 
-Beyond the backend, I have solid frontend exposure using React and Next.js, allowing me to deliver complete end-to-end features. I am comfortable bridging the gap between database schema design and user interface implementation.
+---
 
-I thrive on building real-time communication systems and optimizing performance for high-load environments. Whether it's containerizing services with Docker or deploying on AWS, I enjoy the entire lifecycle of software development.
+### 🚀 Technical Skills
 
-### Experience
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <br/>
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</p>
 
-#### Software Engineer
-**SenseGrass**
-- Continued contributing in an equity-based capacity post full-time tenure.
-- Fixed production bugs, improved system stability, and optimized existing APIs.
-- Added incremental backend features and enhancements based on business needs.
-- Supported deployments, environment fixes, and production troubleshooting.
-- No exclusivity or conflict of interest; open to full-time opportunities.
+---
 
-#### SDE
-**SenseGrass**
-- Designed and developed backend APIs using Node.js and Express to support loan, insurance, and payment workflows handling sensitive financial data.
-- Implemented authentication and authorization mechanisms to secure backend services and control access across user roles.
-- Integrated identity verification workflows including Aadhaar/PAN, eKYC, and OTP, ensuring compliance and secure data handling.
-- Implemented payment processing and payout flows using Cashfree and EscrowPay, including EMI handling and scheduled background jobs.
-- Designed and optimized database schemas and queries using PostgreSQL and MongoDB, improving API response times and system reliability.
-- Implemented real-time communication using WebSockets to deliver low-latency notifications and status updates.
-- Contributed to existing Spring Boot microservices by fixing production issues and extending API functionality where required.
-- Collaborated with frontend engineers to integrate backend APIs with React / Next.js clients, ensuring consistent data flow and secure API usage.
-- Deployed backend services on AWS EC2 using Terraform, following a GitOps-style workflow where infrastructure and deployments were managed through version-controlled pipelines.
-- Deployed and managed Next.js frontend applications on AWS EC2, integrating them with backend APIs and ensuring reliable production access.
-- Worked closely with product and design teams to deliver complete features from backend logic to frontend integration.
+### 💼 Professional Experience
 
-#### Software Engineer
-**MatrIoT Solutions**
-- Modernized backend services by upgrading Node.js versions and migrating databases from MongoDB to MySQL, improving reliability and query performance.
-- Built and maintained backend APIs supporting real-time IoT and monitoring use cases.
-- Implemented real-time communication using WebSockets and MQTT, improving data delivery and system responsiveness.
-- Developed Python-based internal tools for logging, monitoring, and socket-based diagnostics to support backend operations.
-- Containerized backend services using Docker, improving deployment consistency and reducing release-related issues.
-- Collaborated with cross-functional teams to align backend systems with scalable and cloud-ready architecture practices.
+#### **Founding Engineer** | SenseGrass (Fintech Platform)
+*Focus: Microservices, Scalability, Payment Orchestration*
 
-### Featured Projects
+- Designed and implemented end-to-end **microservices architecture** using Node.js, PostgreSQL, RabbitMQ, and gRPC.
+- Built a **Two-Layer API Gateway** (Nginx + Express) for rate limiting, security, and load balancing.
+- Developed a secure **OTP-based authentication system** and Role-Based Access Control (RBAC).
+- Engineered a **Payment Orchestration Service** with webhooks, retries, and idempotency protection.
+- Created an **Internal Admin Dashboard** using Next.js, Redux Toolkit, and Tailwind CSS.
+- Containerized services using **Docker** for consistent local and production environments.
 
-#### Real-Time Messaging Platform
-- Designed and built a backend-first real-time messaging platform supporting secure authentication, 1:1 chats, group chats, and status updates, similar to modern messaging applications.
-- Designed and developed UI/UX using Next.js for core features like auth, chats, and status with focus on responsiveness.
-- Implemented secure signup/login using phone number as single source of truth.
-- Built 1:1 messaging and Group chats with strict role-based access control (Admin/Member).
-- Implemented Status (Stories) with privacy controls based on chat interactions.
-- Used WebSockets for real-time delivery, typing indicators, and presence updates.
-- Integrated Redis for presence tracking, caching metadata, and reducing DB load.
-- Designed hybrid architecture using REST for synchronous ops and WebSockets for real-time events.
-- Ensured stateless backend services using PostgreSQL and Redis for horizontal scalability.
-- Used Prisma ORM for type-safe database access and migrations.
-- Containerized backend with Docker and implemented GitOps workflows using Terraform for AWS deployment.
+#### **Software Engineer** | MatrIoT Solutions (IoT Platform)
+*Focus: Real-time Data, Legacy Modernization, Performance*
 
+- Stabilized and rebuilt a legacy IoT platform handling **real-time sensor data**.
+- Upgraded frontend from React 16 to 18, refactoring to functional components and Hooks.
+- Led the migration from **MongoDB to MySQL**, optimizing for relational schemas and performance.
+- Implemented **Redis queue-based batch processing** to handle high-frequency IoT data.
+- Scaled system to support **10,000+ devices** using horizontal scaling and Nginx.
+- Developed **WebSocket-based** real-time data streaming for live monitoring.
 
-### Technical Advantage
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux-toolkit, Tailwind, Shadcn UI
-- **Backend:** Node.js, Express, Microservices, System Design, WebSockets
-- **Database & Cloud:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, AWS, Kafka
-- **Payments:** Stripe, Razorpay, Cashfree
-- **Languages & Tools:** Java (Spring Boot), Python, Docker, Terraform, GitOps, MQTT, React Native
+#### **Full Stack Developer Trainee** | Masai School
+*Intensive training in MERN Stack and DSA*
 
-<br/><br/>
+---
 
-### GitHub Analytics
+### 🛠️ Featured Projects
 
-<div >
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pappukrs&show_icons=true&locale=en&layout=compact&theme=radical" alt="pappukrs" width="380" /></p>
+#### **Real-Time Messaging Platform**
+> *Tech: Next.js, PostgreSQL, Redis, WebSockets, Prisma, Docker, AWS*
 
-<p>&nbsp;<img align="right"  src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&locale=en&theme=tokyonight" alt="pappu" width="380" /></p>
+- Built a scalable backend supporting 1:1 and group chats with real-time delivery.
+- Implemented phone-based authentication and strict RBAC.
+- Utilized Redis for presence tracking and metadata caching.
+- Designed a hybrid architecture (REST + WebSockets) for optimal performance.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappukrs&layout=compact&theme=tokyonight" alt="Top Languages" width="350" />
 </div>
 
-<br/><br/><br/><br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pappukrs&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<br/><br/><br/><br/>
-<br/><br/>
-<h1></h1>
+---
 
-![Pappu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pappukrs&show_icons=true&theme=radical)
+<p align="center">
+  Connect with me on:
+  <br/>
+  <a href="https://linkedin.com/in/pappukrs">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
