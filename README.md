@@ -131,6 +131,18 @@
 ###  Projects Showcase
 
 #### **Current Spotlight**
+- **[Real-time Video Call & Screen Sharing](https://github.com/pappukrs/Realtime-vedio-call) ↗**
+  > A microservices-based platform for high-quality real-time video communication and screen sharing.
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mediasoup-FFCA28?style=flat-square&logo=webrtc&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+
+<br/>
+
 - **[Real-Time Messaging Platform](https://github.com/pappukrs) ↗**
   > A scalable backend supporting 1:1 and group chats with real-time delivery, phone-based auth, and status updates.
   <br/>
