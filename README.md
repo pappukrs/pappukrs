@@ -63,28 +63,64 @@
 
 ---
 
-### 💼 Professional Journey
+### Professional Journey
 
 <details open>
-<summary><b>Founding Engineer | SenseGrass (Fintech Platform)</b></summary>
-<br/>
-<em>Focus: Microservices, Scalability, Payment Orchestration</em>
+<summary><b>SenseGrass | Founding Engineer (Equity-based)</b></summary>
+<p align="right"><em>06/2025 – Present | Bengaluru, India</em></p>
 
-- Designed and implemented end-to-end **microservices architecture** using Node.js, PostgreSQL, RabbitMQ, and gRPC.
-- Built a **Two-Layer API Gateway** (Nginx + Express) for rate limiting, security, and load balancing.
-- Engineered a **Payment Orchestration Service** with webhooks, retries, and idempotency protection.
-- Created an **Internal Admin Dashboard** using Next.js, Redux Toolkit, and Tailwind CSS.
+- Continued contributing in an **equity-based capacity** post full-time tenure to ensure long-term stability.
+- **Fixed critical production bugs**, improved **system stability**, and optimized existing **backend APIs**.
+- Developed and added **incremental backend features** and enhancements based on evolving business needs.
+- Supported **deployments**, **environment fixes**, and **production troubleshooting** for seamless operations.
+- Maintained no exclusivity or conflict of interest; actively open to **full-time high-impact opportunities**.
 </details>
 
 <details>
-<summary><b>Software Engineer | MatrIoT Solutions (IoT Platform)</b></summary>
-<br/>
-<em>Focus: Real-time Data, Legacy Modernization, Performance</em>
+<summary><b>SenseGrass | Founding Engineer (Full-time)</b></summary>
+<p align="right"><em>04/2024 – 05/2025 | Bengaluru, India</em></p>
 
-- Stabilized and rebuilt a legacy IoT platform handling **real-time sensor data**.
-- Upgraded frontend from React 16 to 18, refactoring to functional components and Hooks.
-- Led the migration from **MongoDB to MySQL**, optimizing for performance.
-- Scaled system to support **10,000+ devices** using horizontal scaling and Nginx.
+- Designed and implemented **end-to-end microservices architecture** for a fintech platform using **Node.js, PostgreSQL, RabbitMQ, gRPC, and React**.
+- Applied **SOLID principles** and **clean architecture** practices to build **scalable, loosely coupled, and maintainable services**.
+- Utilized design patterns including **Adapter** (external integrations), **Factory** (service instantiation), and **Publisher–Subscriber** (event-driven communication).
+- Developed a **secure authentication system** with **OTP-based mobile login** (Twilio), **JWT-based authentication**, and **Role-Based Access Control (RBAC)**.
+- Designed a **two-layer API Gateway architecture** using **Nginx (edge layer) and Express** for routing, rate limiting, and load balancing.
+- Built a **payment orchestration service** with **webhook handling, retry strategies, and idempotency protection** to prevent duplicate transactions.
+- Designed an **event-driven notification system** for SMS and email delivery using **RabbitMQ, Twilio, and SendGrid**.
+- Implemented a **centralized external integration service** using the **Adapter pattern** for payment gateways, KYC, and third-party verification providers.
+- Developed an **internal admin dashboard** (loan & onboarding management) using **Next.js, Redux Toolkit, and Tailwind CSS**.
+- Improved **frontend performance** using reusable components and **optimized API data handling**.
+- **Containerized services** using **Docker and Docker Compose** with health checks and monitoring setup.
+</details>
+
+<details>
+<summary><b>MatrIoT Solutions | Software Engineer</b></summary>
+<p align="right"><em>03/2023 – 03/2024 | Bengaluru, Karnataka</em></p>
+
+- Joined as the **first engineering hire** to stabilize and rebuild a **legacy IoT platform** handling real-time sensor data.
+- **Upgraded frontend** from **React 16 to React 18** and refactored class components into **functional components with Hooks**, improving performance.
+- Implemented **Redux Toolkit** for efficient **state management** and streamlined **API handling**.
+- Developed **dynamic dashboards** for real-time sensor data visualization using **Bootstrap, SCSS, and Material UI**.
+- Built **WebSocket-based real-time data streaming** for live device monitoring and alerts.
+- Led **database migration from MongoDB to MySQL**, transforming nested data into **optimized relational schemas**.
+- Improved **database performance** through **query optimization** and **indexing strategies**.
+- Refactored backend modules using an **event-driven architecture** with **Node.js EventEmitter** for better scalability.
+- Implemented **Redis queue-based batch processing** for database writes, reducing load from high-frequency IoT data.
+- **Scaled system to support 10,000+ devices** using **Docker horizontal scaling** and **Nginx IP hashing**.
+</details>
+
+<details>
+<summary><b>Masai School | Full Stack Developer Trainee</b></summary>
+<p align="right"><em>09/2021 – 02/2023 | Remote</em></p>
+
+- Completed intensive training in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Data Structures & Algorithms**.
+- Built multiple **end-to-end full-stack applications** with secure **user authentication, authorization, and REST APIs**.
+- Designed scalable backend services using **Node.js and Express** with **MVC architecture**.
+- Implemented **JWT-based authentication** and **secure API handling** protocols.
+- Developed **responsive frontend applications** using **React, Hooks, and Redux** for state management.
+- Integrated **MongoDB** using **Mongoose schema design**, CRUD operations, and data validation.
+- Optimized **application performance** and handled **asynchronous operations** using Promises and async/await.
+- Practiced **solving complex DSA problems** involving arrays, strings, recursion, sorting, and hashing.
 </details>
 
 ---
