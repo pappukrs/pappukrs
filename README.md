@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  I am a <b>Software Engineer</b> with 2+ years of experience and an <b>obsession with system design</b>, specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
+  I am a <b>Full-Stack JavaScript Developer</b> with <b>~2.5 years</b> of experience and an <b>obsession with system design</b>, specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 </div>
 
 ---
@@ -56,10 +56,16 @@
     <td valign="top">
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <br/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white" /> <br/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -69,14 +75,15 @@
 ### Professional Journey
 
 <details open>
-<summary><b>SenseGrass | Founding Engineer (Equity-based)</b></summary>
-<p align="right"><em>06/2025 – Present | Bengaluru, India</em></p>
+<summary><b>Chesa Dental Care Service Limited | Full-Stack Developer</b></summary>
+<p align="right"><em>02/2026 – Present | Bengaluru, India</em></p>
 
-- Continued contributing in an **equity-based capacity** post full-time tenure to ensure long-term stability.
-- **Fixed critical production bugs**, improved **system stability**, and optimized existing **backend APIs**.
-- Developed and added **incremental backend features** and enhancements based on evolving business needs.
-- Supported **deployments**, **environment fixes**, and **production troubleshooting** for seamless operations.
-- Maintained no exclusivity or conflict of interest; actively open to **full-time high-impact opportunities**.
+- Architected and shipped **3 production PWAs** (Engineer, Design Visit, Service Dashboard) used by **50+ field engineers across India** — **offline-first Workbox caching**, Android/iOS install prompts, and automatic update notifications.
+- Integrated **SAP B1 Service Layer APIs** for journal entries and vendor payment processing, **automating financial data sync** that previously required manual entry.
+- Implemented **Redis cache-aside** on high-traffic endpoints, reducing average API response times and offloading repetitive database queries.
+- Built end-to-end **visit scheduling/rescheduling** workflows with **OTP verification via WhatsApp**, plus a global multi-entity **master search** over 500+ records.
+- Built the complete **TADA expense flow** (claim → manager approval → PDF report) and a **Finance & Expense dashboard** with analytics and exportable reports.
+- Engineered an **offline-resilient frontend** with network monitoring, server health checks, and automatic retries for low-connectivity field environments.
 </details>
 
 <details>
@@ -98,7 +105,7 @@
 
 <details>
 <summary><b>MatrIoT Solutions | Software Engineer</b></summary>
-<p align="right"><em>03/2023 – 03/2024 | Bengaluru, Karnataka</em></p>
+<p align="right"><em>03/2023 – 02/2024 | Bengaluru, Karnataka</em></p>
 
 - Joined as the **first engineering hire** to stabilize and rebuild a **legacy IoT platform** handling real-time sensor data.
 - **Upgraded frontend** from **React 16 to React 18** and refactored class components into **functional components with Hooks**, improving performance.
