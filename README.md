@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  I am a <b>Full-Stack JavaScript Developer</b> with <b>~2.5 years</b> of experience and an <b>obsession with system design</b>, specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
+  I am a <b>Full-Stack JavaScript Developer</b> with <b>~3+ years</b> of experience and an <b>obsession with system design</b>, specializing in <b>backend-heavy full-stack systems</b>. I focus on designing robust architectures, scaling complex applications, and bridging the gap between database design and user interfaces.
 </div>
 
 ---
