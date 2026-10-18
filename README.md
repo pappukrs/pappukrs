@@ -76,7 +76,7 @@
 
 <details open>
 <summary><b>Chesa Dental Care Service Limited | Full-Stack Developer</b></summary>
-<p align="right"><em>02/2026 – Present | Bengaluru, India</em></p>
+<p align="right"><em>Feb 2026 – Present | Bengaluru, India</em></p>
 
 - Architected and shipped **3 production PWAs** (Engineer, Design Visit, Service Dashboard) used by **50+ field engineers across India** — **offline-first Workbox caching**, Android/iOS install prompts, and automatic update notifications.
 - Integrated **SAP B1 Service Layer APIs** for journal entries and vendor payment processing, **automating financial data sync** that previously required manual entry.
@@ -88,7 +88,7 @@
 
 <details>
 <summary><b>SenseGrass | Founding Engineer (Full-time)</b></summary>
-<p align="right"><em>04/2024 – 05/2025 | Bengaluru, India</em></p>
+<p align="right"><em>Apr 2024 – Jan 2026 | Bengaluru, India</em></p>
 
 - Designed and implemented **end-to-end microservices architecture** for a fintech platform using **Node.js, PostgreSQL, RabbitMQ, gRPC, and React**.
 - Applied **SOLID principles** and **clean architecture** practices to build **scalable, loosely coupled, and maintainable services**.
@@ -105,7 +105,7 @@
 
 <details>
 <summary><b>MatrIoT Solutions | Software Engineer</b></summary>
-<p align="right"><em>03/2023 – 02/2024 | Bengaluru, Karnataka</em></p>
+<p align="right"><em>Mar 2023 – Feb 2024 | Bengaluru, Karnataka</em></p>
 
 - Joined as the **first engineering hire** to stabilize and rebuild a **legacy IoT platform** handling real-time sensor data.
 - **Upgraded frontend** from **React 16 to React 18** and refactored class components into **functional components with Hooks**, improving performance.
@@ -121,7 +121,7 @@
 
 <details>
 <summary><b>Masai School | Full Stack Developer Trainee</b></summary>
-<p align="right"><em>09/2021 – 02/2023 | Remote</em></p>
+<p align="right"><em>Sep 2021 – Feb 2023 | Remote</em></p>
 
 - Completed intensive training in **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Data Structures & Algorithms**.
 - Built multiple **end-to-end full-stack applications** with secure **user authentication, authorization, and REST APIs**.
